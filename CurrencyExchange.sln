@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExchangeService", "ExchangeService\ExchangeService.csproj", "{0A678C58-C0E6-471B-B69A-0866E813183E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exchange", "Exchange\Exchange.csproj", "{5EBD40EC-B1B7-4C24-8AE8-7E8262839933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "UnitTest\UnitTest.csproj", "{49FB0280-FDB3-46CE-BDAA-CA84E1E3792B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A678C58-C0E6-471B-B69A-0866E813183E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A678C58-C0E6-471B-B69A-0866E813183E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A678C58-C0E6-471B-B69A-0866E813183E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A678C58-C0E6-471B-B69A-0866E813183E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EBD40EC-B1B7-4C24-8AE8-7E8262839933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EBD40EC-B1B7-4C24-8AE8-7E8262839933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EBD40EC-B1B7-4C24-8AE8-7E8262839933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EBD40EC-B1B7-4C24-8AE8-7E8262839933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49FB0280-FDB3-46CE-BDAA-CA84E1E3792B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49FB0280-FDB3-46CE-BDAA-CA84E1E3792B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49FB0280-FDB3-46CE-BDAA-CA84E1E3792B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49FB0280-FDB3-46CE-BDAA-CA84E1E3792B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {949B331B-963F-4F5F-BA0B-8A414C10A51A}
+	EndGlobalSection
+EndGlobal
